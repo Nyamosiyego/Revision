@@ -26,7 +26,7 @@ ctx.stroke()
 
 
 ctx.arc(300, 200, 150, 0, math.pi/2)
-ctx.set_source_rgb(0, 1, 0)
+ctx.set_source_rgb(0, 0, 0)
 ctx.set_line_width(10)
 ctx.stroke()
 
